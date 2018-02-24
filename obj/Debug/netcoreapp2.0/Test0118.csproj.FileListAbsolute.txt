@@ -1,0 +1,10 @@
+/home/gpyatt/CodeProjects/Test0118/obj/Debug/netcoreapp2.0/Test0118.csproj.CoreCompileInputs.cache
+/home/gpyatt/CodeProjects/Test0118/obj/Debug/netcoreapp2.0/Test0118.AssemblyInfoInputs.cache
+/home/gpyatt/CodeProjects/Test0118/obj/Debug/netcoreapp2.0/Test0118.AssemblyInfo.cs
+/home/gpyatt/CodeProjects/Test0118/bin/Debug/netcoreapp2.0/Test0118.deps.json
+/home/gpyatt/CodeProjects/Test0118/bin/Debug/netcoreapp2.0/Test0118.runtimeconfig.json
+/home/gpyatt/CodeProjects/Test0118/bin/Debug/netcoreapp2.0/Test0118.runtimeconfig.dev.json
+/home/gpyatt/CodeProjects/Test0118/bin/Debug/netcoreapp2.0/Test0118.dll
+/home/gpyatt/CodeProjects/Test0118/bin/Debug/netcoreapp2.0/Test0118.pdb
+/home/gpyatt/CodeProjects/Test0118/obj/Debug/netcoreapp2.0/Test0118.dll
+/home/gpyatt/CodeProjects/Test0118/obj/Debug/netcoreapp2.0/Test0118.pdb
